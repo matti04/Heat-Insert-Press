@@ -1,5 +1,7 @@
-# Heat-Insert-Press
+# Heat-Insert-Press (Work in progress!)
 3D-printable Heat-Insert Press with custom PID controller PCB
+
+![preview_image](/cad/press.png)
 
 ## Introduction
 Heat inserts are small brass cylinders with a thread in it. Typically used for injection moulding, they quickly became a popular way to connect 3D-printed parts. You use them by melting the inserts into a slightly smaller hole, thus making a strong connection. 
