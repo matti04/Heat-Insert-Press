@@ -15,7 +15,7 @@ I could have also used a spare 3D-printer mainboard, but like with other project
 ### CAD
 At the moment I am finishing the mechanical parts in Fusion 360, there is only the top part left to draw. Once I confirmed that all parts are working as intended, I will re-draw all the files to have a clean project and upload the Fusion 360 file on GitHub. Although I do not recommend building the press right now, I have uploaded the STL-files. 
 ### PCB
-I have already a finished PCB design, however I will drastically change it. I am planning to add: 
+I made some first successful experiments on a breadboard. I need to use a buck converter for the MCU!
 - [ ] USB-C Power Delivery
 - [ ] Add alternative microcontroller (Piksey Atto is hard to buy)
 - [ ] Remove Mosfet for fan
