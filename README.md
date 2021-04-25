@@ -9,6 +9,8 @@ I found them very hard to install, but before making a final judgement, I wanted
 However, I quickly decided not to misuse the soldering iron, because it would be bad for the tips. I had a cheap hotend lying around, which was totally unusable for melting plastic, because of the poor machining quality. Being able to reuse it for the press gives it a good use. 
 I could have also used a spare 3D-printer mainboard, but like with other projects, I decided to make my own PCB to control it. 
 
+![preview_image](/pictures/breadboard_prototype_side.png)
+
 ## Current build status
 ### CAD
 At the moment I am finishing the mechanical parts in Fusion 360, there is only the top part left to draw. Once I confirmed that all parts are working as intended, I will re-draw all the files to have a clean project and upload the Fusion 360 file on GitHub. Although I do not recommend building the press right now, I have uploaded the STL-files. 
