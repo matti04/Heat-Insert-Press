@@ -29,9 +29,9 @@ I made a simple flow chart to symbolize my idea for the circuit: ![flowchart](/p
 The flow chart was created with [Mermaid](https://github.com/mermaid-js/mermaid).
 
 Possible component choices: 
-USB-C Trigger: IP2721: affordable and doesn't require any logic components, but no current limit communication, add pads for external PSU, too
-Step-Down Converter: LM2596R-5.0: SMD and suitable ratings, few additional components needed
-Mosfet: IRF520NS: low gate threshold, enough current
-MCU: Pikey Atto: small footprint and on hand, another version with a more common microcontroller
-OLED: 0,96" OLED: commonly used and affordable
-Heater Cartridge: 24V, 40W: used in many hotend designs
+- USB-C Trigger: IP2721: affordable and doesn't require any logic components, but no current limit communication, add pads for external PSU, too
+- Step-Down Converter: LM2596R-5.0: SMD and suitable ratings, few additional components needed
+- Mosfet: IRF520NS: low gate threshold, enough current
+- MCU: Pikey Atto: small footprint and on hand, another version with a more common microcontroller
+- OLED: 0,96" OLED: commonly used and affordable
+- Heater Cartridge: 24V, 40W: used in many hotend designs
