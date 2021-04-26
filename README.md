@@ -23,12 +23,13 @@ I made some first successful experiments on a breadboard. I need to use a buck c
 ### Code
 No code available yet.
 
-### PCB
+## PCB
+### Flowchart
 I made a simple flow chart to symbolize my idea for the circuit: ![flowchart](/pictures/flowchart.png)
 
-The flow chart was created with [Mermaid](https://github.com/mermaid-js/mermaid).
+Created with [Mermaid](https://github.com/mermaid-js/mermaid).
 
-Possible component choices: 
+### Possible component choices: 
 - USB-C Trigger: IP2721: affordable and doesn't require any logic components, but no current limit communication, add pads for external PSU, too
 - Step-Down Converter: LM2596R-5.0: SMD and suitable ratings, few additional components needed
 - Mosfet: IRF520NS: low gate threshold, enough current
